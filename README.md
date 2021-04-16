@@ -10,7 +10,7 @@ If you are checking that out before I finish it, you'll want to look for the sec
 It's a site that produces heatmaps as a means of displaying the location and distribution of bat activity; the information is reported using STM32 devices I made that listen to the high-frequency bat calls and report over **LoRaWAN** to an **InfluxDB**. 
 This information is then delivered to the client via **Websockets** in near real time.
 
-In the past, I also developed Datapoint-C++, a **C++** library for Met Office's open data API. This was developed for my private collection of Raspberry Pi nestbox boxes that I made and programmed to record the frequency of Blue Tit's visiting their nests, and comparing the data to weather patterns for statistical analysis in Grafana.
+In the past I also developed Datapoint-C++; a **C++** library for Met Office's open data API. This was developed for my private collection of Raspberry Pi nestbox boxes that I made and programmed to record the frequency of Blue Tit's visiting their nests, and comparing the data to weather patterns for statistical analysis in Grafana.
 
 Mixing wildlife and technology seems to be my thing!
 
