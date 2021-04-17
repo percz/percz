@@ -27,6 +27,6 @@ Anyone notice the wildlife reference again?
 
 ### Socials
 
-![Twitter URL](https://img.shields.io/twitter/url?label=%40PerczUK&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPerczUK)
-![Twitter URL](https://img.shields.io/twitter/url?label=%40BatdarUK&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBatdarUK)
-![Twitter URL](https://img.shields.io/twitter/url?label=%40NHackspace&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FNHackspace)
+![https://twitter.com/PerczUK](https://img.shields.io/twitter/url?label=%40PerczUK&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPerczUK)
+![https://twitter.com/BatdarUK](https://img.shields.io/twitter/url?label=%40BatdarUK&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBatdarUK)
+![https://twitter.com/NHackspace](https://img.shields.io/twitter/url?label=%40NHackspace&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FNHackspace)
