@@ -1,4 +1,5 @@
-Hi! When not communicating to humans, I mostly talk to computers in **C++** and love a bit of **JavaScript**. When in the library, I head to the **React** and **NodeJS**, and **Boost** shelves. 
+# Hi! 
+When not communicating to humans, I mostly talk to computers in **C++** and love a bit of **JavaScript**. When in the library, I head to the **React** and **NodeJS**, and **Boost** shelves. 
 I also tinker with electronics, and have made fully custom stuff with **STM32** and **ESP32** microprocessors.
 
 ## Personal Projects
@@ -23,7 +24,7 @@ I've also co-developed *Pheasant* - An **React** app originally for a local emer
 
 Anyone notice the wildlife reference again?
 
-### Socials
+****
 
 [![Twitter @PerczUK](https://img.shields.io/twitter/url?label=%40PerczUK&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPerczUK)](https://twitter.com/PerczUK)
 [![Twitter @BatdarUK](https://img.shields.io/twitter/url?label=%40BatdarUK&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBatdarUK)](https://twitter.com/BatdarUK)
