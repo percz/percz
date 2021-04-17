@@ -17,7 +17,7 @@ Mixing wildlife and technology seems to be my thing!
 
 ## Norwich Hackspace
 
-When not chasing fluttering hamsters in the sky, I'm also to be found being a core-team member of [Norwich Hackspace](http://www.norwichhackspace.org/)`.
+When not chasing fluttering hamsters in the sky, I'm also to be found being a core-team member of [Norwich Hackspace](http://www.norwichhackspace.org/).
 As well as abusively using the laser cutter, 3D printing yet another raspberry pi-case, and fixing some code for the CNC, I produce some code for member and public use under its banner.
 
 The members communicate via Slack, for which I've developed (in **C++**) the *The Lion Bot* which boasts some natural language listening and uniquely added friendly responses. The Lion Bot records the chat activity to a database for statistics and allows some simple heating automation.
