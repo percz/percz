@@ -1,5 +1,3 @@
-# Alan Childs
-
 Hi! When not communicating to humans, I mostly talk to computers in **C++** and love a bit of **JavaScript**. When in the library, I head to the **React** and **NodeJS**, and **Boost** shelves. 
 I also tinker with electronics, and have made fully custom stuff with **STM32** and **ESP32** microprocessors.
 
